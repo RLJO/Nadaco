@@ -1,0 +1,4 @@
+[submodule "RLJO/odoo_theme"]
+	path = RLJO/odoo_theme
+	url = git@github.com:RLJO/odoo_theme.git
+	branch = 13.0
