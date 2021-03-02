@@ -2,3 +2,8 @@
 	path = RLJO/odoo_theme
 	url = git@github.com:RLJO/odoo_theme.git
 	branch = 13.0
+
+[submodule "RLJO/KRS"]
+	path = RLJO/KRS
+	url = git@github.com:RLJO/KRS.git
+	branch = master
