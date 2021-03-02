@@ -1,0 +1,4 @@
+[submodule "giraud-bardoux/Production"]
+	path = giraud-bardoux/Production
+	url = git@github.com:giraud-bardoux/Production.git
+	branch = production
